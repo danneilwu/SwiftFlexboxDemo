@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftyogakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cntrump/SwiftYogaKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5502c753cc377b56f04c4ab37b563db6fc8a010e"
+      }
+    }
+  ],
+  "version" : 2
+}
